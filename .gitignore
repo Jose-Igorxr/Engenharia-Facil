@@ -1,0 +1,46 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Local configuration and secrets
+*.env
+local_settings.py
+
+# Local database files
+*.sqlite3
+
+# Django generated files
+staticfiles/
+media/
+
+# Logs and temporary files
+*.log
+*.pot
+*.DS_Store
+
+# Locally installed dependencies
+*.egg-info/
+dist/
+build/
+
+# PyCharm files
+.idea/
+*.iml
+
+# Visual Studio Code files
+.vscode/
+
+# Sublime Text files
+*.sublime-project
+*.sublime-workspace
+
+# Other common editor files
+*.swp  # Vim swap files
+*.bak  # Backup files
